@@ -1,0 +1,14 @@
+# Treat JSX files as JavaScript (React)
+*.jsx linguist-language=JavaScript
+
+# Ensure JavaScript is the primary detected language
+*.js linguist-language=JavaScript
+
+# Mark CSS as CSS
+*.css linguist-language=CSS
+
+# Mark Markdown files as documentation
+*.md linguist-documentation
+
+# Exclude build folder from language stats
+build/* linguist-vendored
