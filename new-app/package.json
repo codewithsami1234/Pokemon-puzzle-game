@@ -2,6 +2,7 @@
   "name": "new-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://codewithsami1234.github.io/Pokemon-puzzle-game"
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
