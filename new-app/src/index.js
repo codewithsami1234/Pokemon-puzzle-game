@@ -5,11 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { HashRouter } from 'react-router-dom';
 
+// Create root and render the app wrapped in HashRouter
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <HashRouter>
-    <App />
-  </HashRouter>
+  <React.StrictMode>
+    <HashRouter>
+      <App />
+    </HashRouter>
+  </React.StrictMode>
 );
 
 reportWebVitals();
