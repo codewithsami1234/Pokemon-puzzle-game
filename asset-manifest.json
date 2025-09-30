@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pokemon-puzzle-game/static/css/main.b90d6b00.css",
+    "main.js": "/Pokemon-puzzle-game/static/js/main.53313765.js",
+    "static/js/453.f35b1f7b.chunk.js": "/Pokemon-puzzle-game/static/js/453.f35b1f7b.chunk.js",
+    "index.html": "/Pokemon-puzzle-game/index.html",
+    "main.b90d6b00.css.map": "/Pokemon-puzzle-game/static/css/main.b90d6b00.css.map",
+    "main.53313765.js.map": "/Pokemon-puzzle-game/static/js/main.53313765.js.map",
+    "453.f35b1f7b.chunk.js.map": "/Pokemon-puzzle-game/static/js/453.f35b1f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90d6b00.css",
+    "static/js/main.53313765.js"
+  ]
+}
