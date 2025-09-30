@@ -1,5 +1,10 @@
 # 🎮 Pokemon Puzzle Game (React.js)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 A fun Pokémon-themed **memory puzzle game** built with **pure React.js**.  
 Includes card-flipping gameplay, player login, and CRUD pages for managing game data.
 
